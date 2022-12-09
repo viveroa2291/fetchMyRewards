@@ -3,9 +3,13 @@
 This is my submission for the Fetch Rewards Coding Exercise. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I did this in Android Studio and to run this, you need to have Android Studio downloaded and clone the project and pull it down on Anrdoid Studio. 
+I did this in Android Studio and to run this, you need to have Android Studio downloaded and clone the project in order to pull it down on Anrdoid Studio. 
+
+On the Android Studio application, there should be bar on top where it says "GIT" if you're using a Mac and find GITHUB where you could clone the project. The url to clone the project is: https://github.com/viveroa2291/fetchMyRewards.git
 
 From there, you should be able to have access to the whole repository and run the app on the emulator. 
+
+It should be a similar process for a PC computer. 
 
 I did this exercise in Kotlin and down below will be a brief overview of how I completed the exercise. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------

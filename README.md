@@ -1,10 +1,12 @@
 # fetchMyRewards
 
 This is my submission for the Fetch Rewards Coding Exercise. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I did this in Android Studio and to run this, you need to have Android Studio downloaded and clone the project and pull it down on Anrdoid Studio. 
 
 From there, you should be able to have access to the whole repository and run the app on the emulator. 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The way I did this was I downloaded the Json file from the web onto a json file on my local computer and put it inside a file called "Assets", which can be found here: https://github.com/viveroa2291/fetchMyRewards/tree/master/app/src/main/assets

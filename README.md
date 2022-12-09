@@ -9,11 +9,11 @@ From there, you should be able to have access to the whole repository and run th
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The way I did this was I downloaded the Json file from the web into a json file on my local computer and put it inside a file called "Assets", which can be found here: https://github.com/viveroa2291/fetchMyRewards/tree/master/app/src/main/assets
+1. The way I did this was I downloaded the Json file from the web into a json file on my local computer and put it inside a file called "Assets", which can be found here: https://github.com/viveroa2291/fetchMyRewards/tree/master/app/src/main/assets
 
-From there, in the xml file under the layout folder I created a ListView where it would display all of the data from the Json File onto the app which is in the xml file, in which can be found here: https://github.com/viveroa2291/fetchMyRewards/blob/master/app/src/main/res/layout/activity_main.xml
+2. From there, in the xml file under the layout folder I created a ListView where it would display all of the data from the Json File onto the app which is in the xml file, in which can be found here: https://github.com/viveroa2291/fetchMyRewards/blob/master/app/src/main/res/layout/activity_main.xml
 
-Then I began writing code in the Main Activity for 
+3. Then I began writing code in the Main Activity for 
 
 - Reading the Json File
 - Creating a list array for each piece of data

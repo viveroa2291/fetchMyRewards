@@ -7,6 +7,7 @@ I did this in Android Studio and to run this, you need to have Android Studio do
 
 From there, you should be able to have access to the whole repository and run the app on the emulator. 
 
+I did this exercise in Kotlin and down below will be a brief overview of how I completed the exercise. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. The way I did this was I downloaded the Json file from the web into a json file on my local computer and put it inside a file called "Assets", which can be found here: https://github.com/viveroa2291/fetchMyRewards/tree/master/app/src/main/assets
